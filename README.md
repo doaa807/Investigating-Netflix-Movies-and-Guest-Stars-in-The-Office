@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🎬 Investigating Netflix Movies from the 1990s: An Exploratory Data Analysis (EDA) Project
 
 ## 🧐 Project Overview
